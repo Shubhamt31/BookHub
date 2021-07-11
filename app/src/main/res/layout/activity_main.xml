@@ -17,6 +17,7 @@
 
     <com.google.android.material.navigation.NavigationView
         android:layout_width="match_parent"
+        android:id="@+id/navigation_header_container"
         android:layout_height="match_parent"
         app:headerLayout="@layout/drawer_header"
         app:menu="@menu/menu_drawer"/>
